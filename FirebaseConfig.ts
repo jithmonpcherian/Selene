@@ -5,7 +5,7 @@ import { getFirestore } from 'firebase/firestore';
 import { getStorage } from 'firebase/storage';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAgZgd2vssqJE7obM6nq_IYvtcZOOkBnws",
+  apiKey: "yourapikey",
   authDomain: "selene-7575f.firebaseapp.com",
   projectId: "selene-7575f",
   storageBucket: "selene-7575f.firebasestorage.app",
